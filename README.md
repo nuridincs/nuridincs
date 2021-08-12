@@ -1,6 +1,6 @@
 Hey 👋🏻,
 
-I am Co-Founder of [jalankluar.com][1] and Software Engineer from Indonesia. I am interested in, write about, and develop (open source) software solutions
+I am Software Engineer from Indonesia. I am interested in, write about, and develop (open source) software solutions
 using JavaScript, TypeScript, ReactJS, Vuejs, PHP and NodeJS.
 
 <!-- You can see what I am currently up to on [nuridincs.site][1]. -->
