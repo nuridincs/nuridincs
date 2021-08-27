@@ -1,7 +1,7 @@
 Hey 👋🏻,
 
 I am Software Engineer from Indonesia. I am interested in, write about, and develop (open source) software solutions
-using JavaScript, TypeScript, ReactJS, Vuejs, PHP and NodeJS.
+using JavaScript, TypeScript, ReactJS, Vuejs, and PHP.
 
 <!-- You can see what I am currently up to on [nuridincs.site][1]. -->
 
